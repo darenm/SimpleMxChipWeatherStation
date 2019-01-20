@@ -1,8 +1,7 @@
-# Example: Sensor Status
+# Anenometer Simulator
 
-In this project, you will learn how to connect to WiFi and check the status of all sensors for DevKit board.
-The WiFi and sensor status will be shown on the screen when button A and B is clicked.
+This project forms the basis for a larger Weatehr Station Simulator. IT leverages the magnetometer and buttons of the MXChip device to simulat wind speed and wind direction.
 
 ## Release Notes
 
-### May 2017
+### Jan 2019
